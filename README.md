@@ -1,5 +1,7 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:28/04/2025
+## Name: Thameez Ahamed A
+## Reg: 212224220116
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
